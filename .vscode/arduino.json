@@ -1,5 +1,5 @@
 {
-    "sketch": "mask-detector.ino",
+    "sketch": "src\\mask-detector\\mask-detector.ino",
     "output": "build",
     "board": "arduino:mbed_nano:nano33ble"
 }

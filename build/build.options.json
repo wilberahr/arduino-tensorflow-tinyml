@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "arduino:mbed_nano:nano33ble",
+  "hardwareFolders": "C:\\Users\\wilbe\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\wilbe\\OneDrive\\Documentos\\Arduino\\libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "G:\\My Drive\\Courses\\UCR\\IE0624 Laboratorio de microcontroladores\\Lab5\\arduino-tensorflow-tinyml\\src\\mask-detector"
+}

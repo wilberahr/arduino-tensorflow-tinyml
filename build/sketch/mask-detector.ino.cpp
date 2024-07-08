@@ -42,6 +42,11 @@
 
 unsigned short pixels[176 * 144]; // QCIF: 176x144 X 2 bytes per pixel (RGB565)
 
+#line 43 "G:\\My Drive\\Courses\\UCR\\IE0624 Laboratorio de microcontroladores\\Lab5\\arduino-tensorflow-tinyml\\src\\mask-detector\\mask-detector.ino"
+void setup();
+#line 68 "G:\\My Drive\\Courses\\UCR\\IE0624 Laboratorio de microcontroladores\\Lab5\\arduino-tensorflow-tinyml\\src\\mask-detector\\mask-detector.ino"
+void loop();
+#line 43 "G:\\My Drive\\Courses\\UCR\\IE0624 Laboratorio de microcontroladores\\Lab5\\arduino-tensorflow-tinyml\\src\\mask-detector\\mask-detector.ino"
 void setup() {
   Serial.begin(9600);
   while (!Serial);
